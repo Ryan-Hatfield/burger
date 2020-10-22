@@ -5,4 +5,4 @@ VALUES
 ("Ultimate Bacon Cheeseburger", false),
 ("Mushroom Swiss Burger", false),
 ("Hatch Green Chile Bacon Burger", false),
-("Avocado Bacon Burge", false)
+("Avocado Bacon Burger", false)
