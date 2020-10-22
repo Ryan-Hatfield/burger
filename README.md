@@ -25,7 +25,7 @@ Application is deployed, use does not need to install anything in order to use i
 
 ## Usage
 
-![Deployed Application](https://arcane-meadow-53006.herokuapp.com/)
+[Deployed Application](https://arcane-meadow-53006.herokuapp.com/)
 
 ## Questions
 **GitHub Username:** Ryan-Hatfield
