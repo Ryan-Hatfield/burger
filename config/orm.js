@@ -2,7 +2,7 @@
 const connection = require("./connection");
 
 //---ORM setup
-const orm = {
+var orm = {
 //---selectALL method
     selectAll: function(tableName, cb) {
         connection.query("SELECT * FROM " + tableName + ";", function(err, res) {
