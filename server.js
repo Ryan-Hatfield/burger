@@ -4,8 +4,9 @@ const PORT = process.env.PORT || 8080;
 
 const app = express();
 
-//---Static conent
+//---Static content
 app.use(express.static("/public"));
+app.use(express.static(__dirname + "/"));
 
 //---Parse application body
 app.use(express.urlencoded({ extended: true }));
